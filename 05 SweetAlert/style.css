@@ -1,0 +1,27 @@
+body {
+    background-color: #333;
+}
+
+.choice {
+    font-size: 2.2rem;
+    padding: 5px;
+    text-shadow: 2px 2px 2px black;
+}
+
+#swal2-title {
+    color: crimson;
+    text-shadow: 1px 1px 1px black;
+}
+
+#swal2-content {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.swal2-timer-progress-bar {
+    background: orangered;
+}
+
+.swal2-popup{
+    border-radius: 20%;
+}
